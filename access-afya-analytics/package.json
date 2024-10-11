@@ -1,0 +1,21 @@
+{
+  "name": "access-afya-analytics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "chart.js": "^4.4.4",
+    "express": "^4.21.0",
+    "graphql": "^16.9.0",
+    "pg": "^8.13.0",
+    "react-chartjs-2": "^5.2.0"
+  }
+}
